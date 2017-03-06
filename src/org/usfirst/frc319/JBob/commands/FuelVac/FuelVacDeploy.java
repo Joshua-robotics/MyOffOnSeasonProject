@@ -9,8 +9,7 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc319.JBob.commands.Fuel   	double speed = 1;
-    	Robot.fuelVac.fuelVacIn(speed);ac;
+package org.usfirst.frc319.JBob.commands.FuelVac;
 
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc319.JBob.Robot;

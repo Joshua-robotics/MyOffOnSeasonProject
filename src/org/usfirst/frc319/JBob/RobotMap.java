@@ -42,7 +42,6 @@ public class RobotMap {
     public static DoubleSolenoid gearVacgearPiston;
     public static CANTalon gearVacgearVacMotor;
     public static DoubleSolenoid brakePlatebrakePlatePiston;
-    public static CANTalon activeFlooractiveFloor;
     public static Compressor compressorcompressor;
     public static AnalogInput compressorpressureSensor;
 
