@@ -15,7 +15,7 @@ import org.usfirst.frc319.JBob.RobotMap;
 import org.usfirst.frc319.JBob.commands.*;
 import org.usfirst.frc319.JBob.commands.GearVac.GearVacStop;
 
-import edu.wpi.first.wpilibj.CANTalon;
+import com.ctre.CANTalon;
 import edu.wpi.first.wpilibj.DoubleSolenoid;
 
 import edu.wpi.first.wpilibj.command.Subsystem;

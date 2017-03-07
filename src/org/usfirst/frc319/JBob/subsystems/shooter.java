@@ -13,7 +13,7 @@ package org.usfirst.frc319.JBob.subsystems;
 
 import org.usfirst.frc319.JBob.RobotMap;
 import org.usfirst.frc319.JBob.commands.*;
-import edu.wpi.first.wpilibj.CANTalon;
+import com.ctre.CANTalon;
 
 import edu.wpi.first.wpilibj.command.Subsystem;
 
